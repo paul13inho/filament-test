@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+
+h1
+{
+    @apply bg-amber-300;
+}
+
+@tailwind utilities;
